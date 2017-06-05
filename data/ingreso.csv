@@ -1,0 +1,93 @@
+carrera,institucion,direccion,ciudad,region,latitud,longitud,arancel,duracion_formal,duraccion_real,grado,acreditacion_institucion,acreditacion_carrera,porcentaje_procedencia_subvencionado,procentaje_retencion_primero
+"Diseño de Vesturaio, Moldaje y Confección",CFT DE ENSEÑANZA DE ALTA COSTURA PAULINA DIARD,Santo Domingo 1083,Santiago,Metropolitana,"-33,436268","-70,652528",749000,5 semestres,—,Técnico Superior,no acreditada,no acreditada,"48,3",—
+Diseño Gráfico Computacional,CFT ICEL,Alameda 2520,Santiago,Metropolitana,"-33,44908","-70,671854",919000,5 semestres,—,Técnico Superior,no acreditada,no acreditada,"72,2",—
+Diseño Gráfico Computacional,CFT ICEL,Av. Pajaritos 4650,Santiago,Metropolitana,"-33,479591","-70,743802",919000,5 semestres,—,Técnico Superior,no acreditada,no acreditada,"72,2",—
+Diseño Web & Mobile,CFT INACAP,Apoquindo 7282,Santiago,Metropolitana,"-33,408257","-70,55338",1626000,4 semestres,—,Técnico Superior,6 años,no acreditada,"52,4",—
+Diseño y Producción Gráfica,CFT INACAP,"Santa María 2190, ",Arica,Arica y Parinacota,"-18,47005","-70,30431",2090000,4 semestres,—,Técnico Superior,6 años,5 años,"93,6","61,6"
+Diseño y Producción Gráfica,CFT INACAP,Av. La Tirana 4310,Iquique,Taparacá,"-20,272158","-70,126249",1942000,4 semestres,—,Técnico Superior,6 años,5 años,"93,6","61,6"
+Diseño y Producción Gráfica,CFT INACAP,Av. Francisco de Aguirre 389,La Serena,Coquimbo,"-29,906009","-71,252",1890000,4 semestres,—,Técnico Superior,6 años,5 años,"93,6","61,6"
+Diseño y Producción Gráfica,CFT INACAP,Apoquindo 7282,Santiago,Metropolitana,"-33,408257","-70,55338",1876000,4 semestres,—,Técnico Superior,6 años,5 años,"93,6","93,6"
+Diseño y Producción Gráfica,CFT INACAP,Brown Norte 290,Santiago,Metropolitana,"-33,452686","-70,591842",1876000,4 semestres,—,Técnico Superior,6 años,5 años,"93,6","93,6"
+Diseño y Producción Gráfica,CFT INACAP,Av. Concha y Toro 2730,Santiago,Metropolitana,"-33,585932","-70,580677",1876000,4 semestres,—,Técnico Superior,6 años,5 años,"93,6","93,6"
+Diseño y Producción Gráfica,CFT INACAP,Av. Nelson Pereira 2519,Rancagua,O'Higgins,"-34,136379","-70,740001",1812000,4 semestres,—,Técnico Superior,6 años,5 años,"93,6","93,6"
+Diseño y Producción Gráfica,CFT INACAP,Ruta 5 6,Curicó,Maule,"-34,978927","-71,210928",1812000,4 semestres,—,Técnico Superior,6 años,5 años,"93,6","93,6"
+Diseño y Producción Gráfica,CFT INACAP,Luis Durand 02150,Temuco,Araucanía,"-38,725414","-72,630158",1620000,4 semestres,—,Técnico,6 años,5 años,"93,6","93,6"
+Diseño y Producción Gráfica,CFT INACAP,Alcalde René Soriano Bórquez 2382,Osorno,Los Lagos,"-40,581275","-73,111407",1582000,4 semestres,—,Técnico,6 años,5 años,"93,6","93,6"
+Diseño y Producción Gráfica,CFT INACAP,Av. Bulnes km 4 Norte,Punta Arenas,Magallanes,"-53,131432","-70,911705",1556000,4 semestres,—,Técnico,6 años,5 años,"93,6","93,6"
+Diseño de Vestuario Profesional Mención Alta Costura,IP AIEP,Triana 820,Santiago,Metropolitana,"-33,433096","-70,624538",1800000,7 semestres,"9,1 semestres",Profesional,3 años,5 años,"89,9","64,3"
+Diseño Gráfico,IP AIEP,Abdón Cifuentes 115,Viña del Mar,Valparaíso,"-32,738348","-70,727242",1600000,5 semestres,—,Técnico Superior,3 años,5 años,"94,8",65
+Diseño Gráfico,IP AIEP,Ejercito 49,Santiago,Metropolitana,"-33,447539","-70,661556",1450000,5 semestres,—,Técnico Superior,3 años,5 años,"94,8","73,7"
+Diseño Gráfico,IP AIEP,Triana 820,Santiago,Metropolitana,"-33,433096",-70624538,1450000,5 semestres,—,Técnico Superior,3 años,5 años,"94,8","73,7"
+Diseño Gráfico,IP AIEP,Cuevas 70,Rancagua,O'Higgins,"-34,169922","-70,735734",1400000,5 semestres,—,Profesional,3 años,5 años,"94,8","73,7"
+Diseño Gráfico,IP AIEP,Barros Arana 302,Concepción,Bío Bío,"-36,828417","-73,054955",1390000,5 semestres,—,Técnico,3 años,5 años,"94,8","73,7"
+Diseño Gráfico Profesional,IP AIEP,"Ejercito 49, Barrio República",Santiago,Metropolitana,"-33,447539","-70,661556",1730000,8 semestres,"10,2 semestres",Técnico Superior,3 años,3 años,"94,8",65
+Diseño Gráfico Profesional,IP AIEP,Triana 820,Santiago,Metropolitana,"-33,433096","-70,624538",1730000,8 semestres,"10,2 semestres",Técnico Superior,3 años,3 años ,"94,8",65
+Diseño Gráfico Profesional,IP AIEP,Cuevas 70,Rancagua,O'Higgins,"-34,169922","-70,735734",1700000,8 semestres,"10,2 semestres",Profesional,3 años,3 años ,"94,8",65
+Diseño Gráfico Profesional,IP AIEP,Barros Arana 302,Concepción,Bío Bío,"-36,828417","-73,054955",1440000,8 semestres,"10,2 semestres",Profesional,3 años,3 años,"94,8","73,7"
+Diseño Gráfico Profesional,IP AIEP,Ejército 200,Puerto Montt,Los Lagos,"-41,470124","-72,935396",1420000,8 semestres,"10,2 semestres",Profesional,3 años,3 años,"94,8","73,7"
+Diseño,IP DE CHILE,Av. República 285,Santiago,Metropolitana,"-33,451958","-70,667535",1152000,8 semestres,—,Profesional,4 años,no acreditada,—,—
+Diseño de Ambiente,IP DUOC UC,Alameda esquina Av. España,Santiago,Metropolitana,"-33,448918","-70,670085",2100000,8 semestres,12 semestres,Profesional,7 años,6 años,"83,2","72,9"
+Diseño de Ambiente,IP DUOC UC,Camino El Alba 12881,Santiago,Metropolitana,"-33,399655","-70,506355",2100000,8 semestres,12 semestres,Profesional,7 años,6 años,"83,2","72,9"
+Diseño de Vestuario,IP DUOC UC,Camino El Alba 12881,Santiago,Metropolitana,"-33,399655","-70,506355",2200000,8 semestres,"11,8 semestres",Profesional,7 años,7 años,78,"73,1"
+Diseño Gráfico,IP DUOC UC,Alvarez 2366 Chorrillos,Viña del Mar,Valparaíso,"-33,033689","-71,533184",2280000,8 semestres,"12,2 semestres",Profesional,7 años,6 años,"89,3","56,9"
+Diseño Gráfico,IP DUOC UC,Camino El Alba 12881,Santiago,Metropolitana,"-33,399655","-70,506355",2130000,8 semestres,"12,2 semestres",Las Condes,7 años,6 años,"89,3","75,7"
+Diseño Gráfico,IP DUOC UC,Froilán Roa 7107 Mall Plaza Vespucio,Santiago,Metropolitana,"-33,517598","-70,598089",2130000,8 semestres,"12,2 semestres",Profesional,7 años,6 años,"89,3","75,7"
+Diseño Gráfico,IP DUOC UC,Av. Américo Vespucio 1501 Mall Plaza Oeste,Santiago,Metropolitana,"-33,516058","-70,716103",1940000,8 semestres,"12,2 semestres",Profesional,7 años,6 años,"89,3","75,7"
+Diseño Gráfico,IP DUOC UC,Paicaví 3280 Sector Rotonda El Trébol,Concepción,Bío Bío,"-36,797162","-73,062708",1880000,8 semestres,"12,2 semestres",Profesional,7 años,6 años,"89,3","75,7"
+Diseño Industrial,IP DUOC UC,Álvarez 2336,Viña del Mar,Valparaíso,"-33,033689","-71,533184",2120000,8 semestres,"12,9 semestres",Profesional,7 años,6 años,"80,8","71,1"
+Diseño Industrial,IP DUOC UC,Camino El Alba 12881,Santiago,Metropolitana,"-33,399655","-70,506355",2120000,8 semestres,"12,9 semestres",Profesional,7 años,6 años,"80,8","71,1"
+Diseño Industrial,IP DUOC UC,Av. Américo Vespucio 1501 Mall Plaza Oeste,Santiago,Metropolitana,"-33,516058","-70,716103",1930000,8 semestres,"12,9 semestres",Profesional,7 años,6 años,"80,8","71,1"
+Diseño de Moda,IP INACAP,Apoquindo Ote. 7282,Santiago,Metropolitana,"-33,408257","-70,55338",2196000,8 semestres,"11,9	semestres ",Profesional,6 años,6 años,"63,6","76,9"
+Diseño de Moda,IP INACAP,Luis Durand 02150,Temuco,Araucanía,"-38,725414","-72,630158",1812000,8 semestres,"11,9	semestres ",Profesional,6 años,6 años,"50,6","76,9"
+Diseño de Moda,IP INACAP,"Av, Francisco de Aguirre 389",La Serena,Coquimbo,"-29,906009","-71,252",1658000,8 semestres,"11,9	semestres ",Profesional,6 años,6 años ,"67,4","76,9"
+Diseño Gráfico Profesional,IP INACAP,Av. La Tirana 4310,Iquique,Taparacá,"-20,272158","-70,126249",2090000,8 semestres,"11,8 semestres",Profesional,6 años,6 años,95,"72,5"
+Diseño Gráfico Profesional,IP INACAP,"Av, Francisco de Aguirre 389",La Serena,Coquimbo,"-29,906009","-71,252",1942000,8 semestres,"11,8 semestres",Profesional,6 años,6 años,95,"72,5"
+Diseño Gráfico Profesional,IP INACAP,Apoquindo 7282,Santiago,Metropolitana,"-33,408257","-70,55338",1890000,8 semestres,"11,8 semestres",Profesional,6 años,6 años,95,"72,5"
+Diseño Gráfico Profesional,IP INACAP,Brown Norte 290,Santiago,Metropolitana,"-33,452686","-70,591842",1876000,8 semestres,"11,8 semestres",Profesional,6 años,6 años,95,"72,5"
+Diseño Gráfico Profesional,IP INACAP,Av. Concha y Toro 2730,Santiago,Metropolitana,"-33,585932","-70,580677",1876000,8 semestres,"11,8 semestres",Profesional,6 años,6 años,95,"72,5"
+Diseño Gráfico Profesional,IP INACAP,Av. Nelson Pereira 2519,Rancagua,O'Higgins,"-34,136379","-70,740001",1812000,8 semestres,"11,8 semestres",Profesional,6 años,6 años,95,"72,5"
+Diseño Gráfico Profesional,IP INACAP,Ruta 5 6,Curicó,Maule,"-34,978927","-71,210928",1812000,8 semestres,"11,8 semestres",Profesional,6 años,6 años,95,"72,5"
+Diseño Gráfico Profesional,IP INACAP,Luis Durand 02150,Temuco,Araucanía,"-38,725414","-72,630158",1620000,8 semestres,"11,8 semestres",Profesional,6 años,6 años,95,"72,5"
+Diseño Gráfico Profesional,IP INACAP,Alcalde René Soriano Bórquez 2382,Osorno,Los Lagos,"-40,581275","-73,111407",1602000,8 semestres,"11,8 semestres",Profesional,6 años,6 años,95,"72,5"
+Diseño Gráfico Profesional,IP INACAP,Av. Bulnes km 4 Norte,Punta Arenas,Magallanes,"-53,131432","-70,911705",1556000,8 semestres,"11,8 semestres",Profesional,6 años,6 años,95,"72,5"
+Diseño Gráfico Profesional ,IP INACAP,Santa María 2190,Arica,Arica y Parinacota,"-18,47005","-70,30431",1582000,8 semestres,"11,8 semestres",Profesional,6 años,6 años,95,"72,5"
+Diseño Gráfico Publicitario,IP LOS LEONES,Arturo Prat 269,Santiago,Metropolitana,"-33,448555","-70,649531",1220000,8 semestres,10 semestres,Profesional,no acreditada,3 años,"99,4","57,4"
+Diseño Gráfico,IP SANTO TOMAS,Ruta 5 Norte 1068,La Serena,Coquimbo,"-29,908667","-71,257226",1821000,8 semestres,—,Profesional,3 años,4 años,"98,3",—
+Diseño Gráfico,IP SANTO TOMAS,Vicuña Mackenna 4835,Santiago,Metropolitana,"-33,496419","-70,61684",1718100,8 semestres,—,Profesional,3 años,4 años,"98,3",—
+Diseño Gráfico,IP SANTO TOMAS,Av. Carlos Schorr 255,Talca,Maule,"-35,429015","-71,673172",1718100,8 semestres,—,Profesional,3 años,4 años,"98,3",—
+Diseño Gráfico,IP SANTO TOMAS,Av. Prat  879,Concepción,Bío Bío,"-36,826503","-73,061627",1685400,8 semestres,—,Profesional,3 años,4 años,"98,3",—
+Diseño Gráfico,IP SANTO TOMAS,Av. Ramon Picarte 1160,Valdivia,Los Ríos,"-39,817491","-73,233502",1610200,8 semestres,—,Profesional,3 años,4 años,"98,3",—
+Diseño Gráfico,IP SANTO TOMAS,Buena Vecindad 91,Puerto Montt,Los Lagos,"-41,471524","-72,928832",1552900,8 semestres,—,Profesional,3 años,4 años,"98,3",—
+Técnico en Diseño Publicitario Multimedial,IP SANTO TOMAS,Río Copiapó Sur 2351,Copiapo,Atacama,-27351285,"-70,353583",1612500,5 semestres,"7,8 semestres",Técnico Superior,3 años,5 años,40,"60,9"
+Diseño,PONTIFICIA UNIVERSIDAD CATÓLICA DE CHILE,El Comendador 1916,Santiago,Metropolitana,"-33,420252","-70,618093",4775000,10 semestres,12 semestres,Profesional,7 años,7 años,"18,7",93
+Diseño Gráfico,PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO,Brasil 2950,Valparaíso,Valparaíso,"-33,044542","-71,606263",4061000,9 semestres,—,Profesional,7 años,5 ños,"54,2",—
+Diseño Industrial,PONTIFICIA UNIVERSIDAD CATOLICA DE VALPARAISO,Brasil 2950,Valparaíso,Valparaíso,"-33,044542","-71,606263",4061000,9 semestres,—,Profesional,7 años ,5 años,"58,5",—
+Diseño,UNIVERSIDAD ADOLFO IBAÑEZ,Diagonal Las Torres 2640,Santiago,Metropolitana,"-33,486212","-70,520975",5000236,10 semestres,—,Profesional,5 años,no acreditada,"10,8",—
+Diseño de Juegos Digitales,UNIVERSIDAD ANDRES BELLO,Fernández Concha 700,Santiago,Metropolitana,"-33,374903","-70,505396",4525151,8 semestres,—,Profesional,4 años,no acreditada,57,—
+Diseño de Vestuario y Textil,UNIVERSIDAD ANDRES BELLO,Av. Las Condes 11121,Santiago,Metropolitana,"-33,378727","-70,528683",4525151,8 semestres,—,Profesional,4 años,no acreditada,"54,4",—
+Diseño Gráfico,UNIVERSIDAD ANDRES BELLO, Quillota 980,Viña del Mar,Valparaíso,"-33,014389","-71,543464",4525151,9 semestres,12 semestres,Profesional,4 años ,no acreditada,"66,9","67,8"
+Diseño Gráfico,UNIVERSIDAD ANDRES BELLO,Av. Las Condes 11121,Santiago,Metropolitana,"-33,378727","-70,528683",3755876,8 semestres,12 semestres,Profesional,4 años,no acreditada,"66,9","67,8"
+Diseño (NN),UNIVERSIDAD AUSTRAL DE CHILE,Independencia 641,Valdivia,Los Ríos,"-39,815468","-73,247378",—,—,—,Profesional,6 años,no acreditada,—,—
+Diseño Gráfico,UNIVERSIDAD CATOLICA DE TEMUCO,Av. Alemania 0422,Temuco,Araucanía,"-38,735801","-72,607459",3108000,10 semestres,—,Profesional,4 años ,4 años,"63,1",—
+Diseño de Imagen Especialidad Moda,"UNIVERSIDAD DE ARTES, CIENCIAS Y COMUNICACION",Av. Salvador 1200,Santiago,Metropolitana,"-33,444341",-70623268,3480000,10 semestres,—,Profesional,no acreditada,2 años,"71,2","72,4"
+Diseño Gráfico,UNIVERSIDAD DE CHILE,Av Portugal 84,Santiago,Metropolitana,"-33,442279","-70,638175",3698700,10 semestres,"15,3 semestres",Profesional,7 años,5 años ,"70,6","68,7"
+Diseño Industrial,UNIVERSIDAD DE CHILE,"Av Portugal 84, Santiago, Región Metropolitana, Chile",Santiago,Metropolitana,"-33,442279","-70,638175",3698700,10 semestres,"15,3 semestres",Profesional,7 años,5 años ,"70,6","68,7"
+Diseño Teatral,UNIVERSIDAD DE CHILE,Compañía 1264,Santiago,Metropolitana,"-33,439084","-70,654721",2794000,10 semestres,—,Profesional,no acreditada,no acreditada,—,—
+Diseño Mención Comunicación/Equipamiento,UNIVERSIDAD DE LA SERENA,Benavente 980,La Serena,Coquimbo,"-29,909163","-71,246865",2490216,10 semestres,—,Profesional,4 años,4 años,"93,9","64,1"
+Diseño Gráfico,UNIVERSIDAD DE LAS AMERICAS,Av. Manuel Montt 948,Santiago,Metropolitana,"-33,436895","-70,616137",2940250,8 semestres,—,Profesional,3 años,no acreditada,"75,8",—
+Diseño,UNIVERSIDAD DE TALCA,2 Norte 685,Talca,Maule,"-35,425552","-71,645105",3044500,9 semestres,—,Profesional,5 años,5 años,"91,5",50
+Diseño Multimedia,UNIVERSIDAD DE TARAPACA,Av. General Velásquez 1775,Arica,Arica y Parinacota,"-18,470976","-70,311415",2477000,8 semestres,—,Profesional,5 años,5 años,"64,7",—
+Diseño,UNIVERSIDAD DE VALPARAISO,—,—,Valparaíso,—,—,—,10 semestres,"17,6 semestres",—,5 años,5 años,—,—
+Diseño,UNIVERSIDAD DE VIÑA DEL MAR,—,—,Valparaíso,—,—,—,9 semestres,—,—,—,—,"10,4",—
+Diseño Gráfico,UNIVERSIDAD DEL BIO-BIO,"Av. Casilla 5-C, Collao 1202",Chillán,Bío Bío,"-36,822781","-73,011506",2574000,10 semestres,"13,7 semestres",Profesional,5 años,5 años,"98,8","84,4"
+Diseño,UNIVERSIDAD DEL DESARROLLO,Av. Plaza 700,Santiago,Metropolitana,"-36,821529","-73,037033",5955927,10 semestres,"12,3 semestres",Profesional,5 años,6 años,"10,4","81,5"
+Diseño,UNIVERSIDAD DEL DESARROLLO,Ainavillo 456,Concepción,Bío Bío,"-33,50042","-70,561479",3688955,10 semestres,"12,3 semestres",Profesional,5 años,6 años,—,"81,5"
+Diseño de Interiores,UNIVERSIDAD DEL PACIFICO,Av. Las Condes 11121,Santiago,Metropolitana,"-33,378727","-70,528683",4100000,9 semestres,—,Profesional,no acreditada,4 años,"24,3",—
+Diseño Gráfico,UNIVERSIDAD DEL PACIFICO,Av. Las Condes 11121,Santiago,Metropolitana,"-33,378727","-70,528683",3990000,9 semestres,"11,6 semestres",Profesional,no acreditada,5 años,"30,1",—
+Diseño Vestuario y Textiles,UNIVERSIDAD DEL PACIFICO,Av. Las Condes 11121,Santiago,Metropolitana,"-33,378727",-70528683,4538000,9 semestres,"10,3 semestres",Profesional,no acreditada,5 años,"15,4","74,1"
+Diseño,UNIVERSIDAD DIEGO PORTALES,Av. República 180,Santiago,Metropolitana,"-33,450698","-70,667505",4581000,10 semestres,13 semestres,Profesional,5 años,6 años,"41,7","74,7"
+Diseño,UNIVERSIDAD FINIS TERRAE,Av. Pedro de Valdivia 1224,Santiago,Metropolitana,"-33,434233","-70,608479",4256000,9 semestres,"11,9 semestres",Profesional,4 años,no acreditada,"40,7","85,2"
+"Diseño Crossmedia en Gráfica, Web y Video Digital",UNIVERSIDAD GABRIELA MISTRAL,Av. Ricardo Lyon 1177,Santiago,Metropolitana,"-33,431892","-70,606076",2990000,9 semestres,—,Profesional,2 años,no acreditada,"61,1",—
+Diseño Mención Industrial/Gráfico/Ambienstes,UNIVERSIDAD MAYOR,Portugal 351,Santiago,Metropolitana,"-33,447138","-70,635533",4371000,10 semestres,—,Profesional,5 años,no acreditada,"64,2","71,1"
+Diseño en Comunicación Visual,UNIVERSIDAD TECNOLOGICA METROPOLITANA,Dieciocho 161,Santiago,Metropolitana,"-33,448481","-70,657966",2921858,10 semestres,"17,6 semestres",Profesional,4 años,5 años,"95,1","77,8"
+Diseño Industrial,UNIVERSIDAD TECNOLOGICA METROPOLITANA,Dieciocho 161,Santiago,Metropolitana,"-33,448481","-70,657966",3000547,10 semestres,"15,9	semestres",Profesional,4 años,6 años,"94,9","76,1"
